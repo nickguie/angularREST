@@ -1,0 +1,14 @@
+{
+  "cliente": [
+    {
+      "nome": "Nickolas",
+      "cpf": "987654321",
+      "id": 2
+    },
+    {
+      "nome": "Juju Almeida",
+      "cpf": "456321789",
+      "id": 3
+    }
+  ]
+}
