@@ -1,0 +1,41 @@
+.model-list{
+  list-style: none;
+  width:35%;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+.model-list li{
+  background-color: gray;
+  padding: 5px;
+  border-radius: 25px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.main-button{
+  background-color: rgba(149, 2, 81, 0.623);
+  padding: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 25px;
+  cursor: pointer;
+
+}
+
+.del-button{
+  float: right;
+  margin-right: -8px;
+  background-color: rgba(231, 38, 38, 0.808);
+  width: 20px;
+  height:20px ;
+  text-align: center;
+  border-radius: 13px;
+  font-weight: bold;
+  color: white;
+  font-size: 14px; 
+  margin-top: -1px;
+  
+}
